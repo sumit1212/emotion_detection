@@ -1,4 +1,0 @@
-tensorflow==2.18.0
-numpy==1.26.0
-opencv-python==4.11.0.86
-fastapi==0.110.1
